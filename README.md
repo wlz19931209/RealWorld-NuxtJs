@@ -1,1 +1,1 @@
-## 基于NuxtJs的realworld项目,发布于[vercel](realworld-nuxtjs-rust.vercel.app)
+## 基于NuxtJs的realworld项目,自动部署于[vercel](https://realworld-nuxtjs.wlz19931209.vercel.app/)
