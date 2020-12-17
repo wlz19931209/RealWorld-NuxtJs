@@ -1,1 +1,1 @@
-## 基于NuxtJs的realworld项目
+## 基于NuxtJs的realworld项目,发布于vercel

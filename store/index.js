@@ -1,4 +1,4 @@
-const cookieParser = process.server ? require('cookieParser') : undefined
+const cookieParser = process.server ? require('cookieparser') : undefined
 
 // 在服务端渲染期间运行都是同一个实例
 // 为了防止数据冲突，务必要把 state 定义成一个函数，韩慧数据对象
