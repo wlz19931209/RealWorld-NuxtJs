@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_769d6922"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_5c9f2a4e"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_5c9f2a4e"
+      },
+      {
+        "path": "/setting",
+        "name": "setting",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\setting",
+        "_name": "_ed8f2480"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_0067e919"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_319ba734"
+      },
+      {
+        "path": "/editArticle/:slug?",
+        "name": "editArticle",
+        "component": "E:\\\\拉钩\\\\Vuex数据流管理及Vue.js服务端渲染SSR\\\\SSR\\\\现代化的服务端渲染\\\\realworld-nuxtjs\\\\pages\\\\article\\\\edit",
+        "_name": "_fc4afd20"
+      }
+    ],
+    "_name": "_639fedba"
+  }
+]
