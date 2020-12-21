@@ -49,13 +49,9 @@ jobs:
     - name: Deploy
       uses: appleboy/ssh-action@master
       with:
-        host: ${{ secrets.HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
-        port: ${{ secrets.PORT }}
+        host: '47.108.155.19'
+        username: 'root'
+        password: 'Caitaodemima123456789'
+        port: 8800
         script: |
-          cd /root/realworld-nuxtjs
-          wget https://github.com/wlz19931209/RealWorld-NuxtJs/releases/latest/download/release.tgz -O release.tgz
-          tar zxvf release.tgz
-          npm install --production
-          pm2 reload pm2.config.js
+ 
