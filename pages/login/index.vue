@@ -62,11 +62,11 @@ export default {
 	},
 	mounted() {
 		// 搞点假数据 免得填
-		this.user = {
-			username: "wlz",
-			email: "jake@jake1.jake",
-			password: "jakejake",
-		};
+		// this.user = {
+		// 	username: "wlz",
+		// 	email: "jake@jake1.jake",
+		// 	password: "jakejake",
+		// };
 	},
 	methods: {
 		async onSubmit() {
