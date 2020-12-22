@@ -1,8 +1,8 @@
 {
     "apps": [
         {
-            "name": "RealWorld-NuxtJs",
-            "script": "npm -- start",
+            "name": "RealWorld",
+            "script": "npm",
             "args": "start"
         }
     ]
