@@ -1,1 +1,1 @@
-## 基于NuxtJs的realworld项目,自动部署于[vercel](https://realworld-nuxtjs.wlz19931209.vercel.app/)
+## 基于NuxtJs的realworld项目,分别部署于[vercel](https://realworld-nuxtjs.wlz19931209.vercel.app/)和[阿里云](http://47.108.155.19:8800/)
